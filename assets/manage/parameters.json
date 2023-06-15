@@ -11,19 +11,19 @@
       }
     ]
   },
-  "PACKAGE_NAME": {
+  "PROJECT_NAME": {
     "Order": 2,
     "Prompts": [
       {
-        "Message": "Enter the package name:"
+        "Message": "Enter the project name:"
       }
     ]
   },
-  "PACKAGE_DESCRIPTION": {
+  "PROJECT_DESCRIPTION": {
     "Order": 2,
     "Prompts": [
       {
-        "Message": "Enter the package description:"
+        "Message": "Enter the project description:"
       }
     ]
   }
