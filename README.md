@@ -1,0 +1,1 @@
+# lcu-eac-project-details-manager
