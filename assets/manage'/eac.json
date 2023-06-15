@@ -1,0 +1,10 @@
+{
+  "Projects": {
+    "{{PROJECT_LOOKUP}}": {
+      "Details": {
+        "Name": "{{PACKAGE_NAME}}",
+        "Description": "{{PACKAGE_DESCRIPTION}}"
+      }
+    }
+  }
+}

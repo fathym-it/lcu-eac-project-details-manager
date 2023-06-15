@@ -1,0 +1,26 @@
+{
+  "Package": {
+    "Name": "Project Details Manager",
+    "Description": "An LCU for managing the details of a project.",
+    "Image": "https://www.fathym.com/assets/images/logo.png",
+    "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
+    "Intents": [
+      "Project Details Manager",
+      "EaC Management",
+      "Enterprise As Code"
+    ]
+  },
+  "Configurations": {
+    "Manage": {
+      "Name": "Project Details Manager",
+      "Description": "Project Details Manager",
+      "Phases": [
+        {
+          "Name": "Update Project Details",
+          "Order": 1,
+          "Asset": "manage"
+        }
+      ]
+    }
+  }
+}
