@@ -1,7 +1,7 @@
 {
   "Package": {
     "Name": "Project Details Manager",
-    "Description": "An LCU for managing the details of a project.",
+    "Description": "Update the name and description of new or existing projects.",
     "Image": "https://www.fathym.com/assets/images/logo.png",
     "PreviewImage": "https://www.fathym.com/assets/images/logo.png",
     "Intents": [
@@ -13,7 +13,7 @@
   "Configurations": {
     "Manage": {
       "Name": "Project Details Manager",
-      "Description": "Project Details Manager",
+      "Description": "Update the name and description of new or existing projects",
       "Phases": [
         {
           "Name": "Update Project Details",
